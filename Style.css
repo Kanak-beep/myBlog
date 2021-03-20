@@ -1,0 +1,17 @@
+.body{
+      background-color: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+
+}
+.img{
+    width: 100;
+    height: 500;
+}
+.links {
+    float: left; color: #fff; padding-top: 5px; padding-left: 9px; padding-right: 9px; padding-bottom: 5px; font-family: fantasy; font-size: 20px 
+}
+.links:hover {
+    background-color: dodgerblue; 
+}
+.h1{
+    font-size: 
+}
